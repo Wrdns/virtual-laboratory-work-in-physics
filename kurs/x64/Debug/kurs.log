@@ -1,0 +1,7 @@
+﻿  kursDlg.cpp
+C:\Users\aleks\source\Labs\Lab08\kurs\kurs\kursDlg.cpp(183,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\Labs\Lab08\kurs\kurs\kursDlg.cpp(183,12): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\Labs\Lab08\kurs\kurs\kursDlg.cpp(184,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\Labs\Lab08\kurs\kurs\kursDlg.cpp(184,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\Labs\Lab08\kurs\kurs\kursDlg.cpp(185,27): warning C4244: аргумент: преобразование "double" в "UINT", возможна потеря данных
+  kurs.vcxproj -> C:\Users\aleks\source\Labs\Lab08\kurs\x64\Debug\kurs.exe
